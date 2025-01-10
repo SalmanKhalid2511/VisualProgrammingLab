@@ -1,0 +1,16 @@
+﻿@page "/"
+@using CityButtonApp.Data
+
+<h3>City Buttons</h3>
+
+<div>
+    @foreach (var city in CityRepository.GetCities())
+    {
+        <button class="btn btn-primary m-1">@city</button>
+    }
+</div>
+
+<hr />
+
+<h3>Server List</h3>
+<p>The server list functionality will be added later.</p>

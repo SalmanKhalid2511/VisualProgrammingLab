@@ -1,0 +1,62 @@
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\bin\Debug\net8.0\appsettings.Development.json
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\bin\Debug\net8.0\appsettings.json
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\bin\Debug\net8.0\Assigmnet_5.staticwebassets.runtime.json
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\bin\Debug\net8.0\Assigmnet_5.staticwebassets.endpoints.json
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\bin\Debug\net8.0\Assigmnet_5.exe
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\bin\Debug\net8.0\Assigmnet_5.deps.json
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\bin\Debug\net8.0\Assigmnet_5.runtimeconfig.json
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\bin\Debug\net8.0\Assigmnet_5.dll
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\bin\Debug\net8.0\Assigmnet_5.pdb
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\obj\Debug\net8.0\Assigmnet 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\obj\Debug\net8.0\Assigmnet 5.AssemblyInfoInputs.cache
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\obj\Debug\net8.0\Assigmnet 5.AssemblyInfo.cs
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\obj\Debug\net8.0\Assigmnet 5.csproj.CoreCompileInputs.cache
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\obj\Debug\net8.0\Assigmnet_5.MvcApplicationPartsAssemblyInfo.cache
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\obj\Debug\net8.0\scopedcss\bundle\Assigmnet_5.styles.css
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\obj\Debug\net8.0\scopedcss\projectbundle\Assigmnet_5.bundle.scp.css
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\obj\Debug\net8.0\staticwebassets.build.json
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\obj\Debug\net8.0\staticwebassets.development.json
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\obj\Debug\net8.0\staticwebassets\msbuild.Assigmnet_5.Microsoft.AspNetCore.StaticWebAssets.props
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\obj\Debug\net8.0\staticwebassets\msbuild.Assigmnet_5.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\obj\Debug\net8.0\staticwebassets\msbuild.build.Assigmnet_5.props
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Assigmnet_5.props
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Assigmnet_5.props
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\obj\Debug\net8.0\staticwebassets.pack.json
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\obj\Debug\net8.0\Assigmnet_5.dll
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\obj\Debug\net8.0\refint\Assigmnet_5.dll
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\obj\Debug\net8.0\Assigmnet_5.pdb
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\obj\Debug\net8.0\Assigmnet 5.genruntimeconfig.cache
+C:\WORK UNI\3rd sem\VP LAB\Assigmnet 5\obj\Debug\net8.0\ref\Assigmnet_5.dll
+C:\Users\DELL\Downloads\Assigmnet 5\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DELL\Downloads\Assigmnet 5\bin\Debug\net8.0\appsettings.json
+C:\Users\DELL\Downloads\Assigmnet 5\bin\Debug\net8.0\Assigmnet_5.staticwebassets.runtime.json
+C:\Users\DELL\Downloads\Assigmnet 5\bin\Debug\net8.0\Assigmnet_5.exe
+C:\Users\DELL\Downloads\Assigmnet 5\bin\Debug\net8.0\Assigmnet_5.deps.json
+C:\Users\DELL\Downloads\Assigmnet 5\bin\Debug\net8.0\Assigmnet_5.runtimeconfig.json
+C:\Users\DELL\Downloads\Assigmnet 5\bin\Debug\net8.0\Assigmnet_5.dll
+C:\Users\DELL\Downloads\Assigmnet 5\bin\Debug\net8.0\Assigmnet_5.pdb
+C:\Users\DELL\Downloads\Assigmnet 5\obj\Debug\net8.0\Assigmnet 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\Assigmnet 5\obj\Debug\net8.0\Assigmnet 5.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Assigmnet 5\obj\Debug\net8.0\Assigmnet 5.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Assigmnet 5\obj\Debug\net8.0\Assigmnet 5.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Assigmnet 5\obj\Debug\net8.0\Assigmnet_5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Downloads\Assigmnet 5\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DELL\Downloads\Assigmnet 5\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DELL\Downloads\Assigmnet 5\obj\Debug\net8.0\staticwebassets\msbuild.Assigmnet_5.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Downloads\Assigmnet 5\obj\Debug\net8.0\staticwebassets\msbuild.build.Assigmnet_5.props
+C:\Users\DELL\Downloads\Assigmnet 5\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Assigmnet_5.props
+C:\Users\DELL\Downloads\Assigmnet 5\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Assigmnet_5.props
+C:\Users\DELL\Downloads\Assigmnet 5\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DELL\Downloads\Assigmnet 5\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\DELL\Downloads\Assigmnet 5\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\DELL\Downloads\Assigmnet 5\obj\Debug\net8.0\scopedcss\bundle\Assigmnet_5.styles.css
+C:\Users\DELL\Downloads\Assigmnet 5\obj\Debug\net8.0\scopedcss\projectbundle\Assigmnet_5.bundle.scp.css
+C:\Users\DELL\Downloads\Assigmnet 5\obj\Debug\net8.0\Assigmnet_5.dll
+C:\Users\DELL\Downloads\Assigmnet 5\obj\Debug\net8.0\refint\Assigmnet_5.dll
+C:\Users\DELL\Downloads\Assigmnet 5\obj\Debug\net8.0\Assigmnet_5.pdb
+C:\Users\DELL\Downloads\Assigmnet 5\obj\Debug\net8.0\Assigmnet 5.genruntimeconfig.cache
+C:\Users\DELL\Downloads\Assigmnet 5\obj\Debug\net8.0\ref\Assigmnet_5.dll
